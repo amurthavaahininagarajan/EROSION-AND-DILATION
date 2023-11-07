@@ -29,8 +29,8 @@ Plot the images using plt.imshow.
 
  
 ## Program:
-# Developed by: Mohan raj
-# Register no: 212221230065
+# Developed by: Amurtha vaahini.KN
+# Register number:212222240008
 
 
 # Import the necessary packages:
@@ -87,7 +87,7 @@ plt.show()
 ## Output:
 
 ### Display the input Image:
-![Screenshot 2023-10-14 225841](https://github.com/Mohanraj2004/EROSION-AND-DILATION/assets/132890483/a47b933f-89db-4f26-877e-9ee62bd77e00)
+![1](https://github.com/amurthavaahininagarajan/EROSION-AND-DILATION/assets/118679102/7ae2570f-d3d4-4a83-aa23-cfa610878133)
 
 
 
@@ -99,7 +99,8 @@ plt.show()
 <br>
 
 ### Display the Eroded Image:
-![Screenshot 2023-10-14 225936](https://github.com/Mohanraj2004/EROSION-AND-DILATION/assets/132890483/95620306-2b71-42a2-ab11-41f4969e2299)
+![2](https://github.com/amurthavaahininagarajan/EROSION-AND-DILATION/assets/118679102/088be846-bd21-4b3a-b03f-692129f62013)
+
 
 <br>
 <br>
@@ -111,7 +112,8 @@ plt.show()
 ### Display the Dilated Image:
 
 
-![Screenshot 2023-10-14 230020](https://github.com/Mohanraj2004/EROSION-AND-DILATION/assets/132890483/9b7080a8-2aba-42f6-8836-5aafd7dd3a67)
+![3](https://github.com/amurthavaahininagarajan/EROSION-AND-DILATION/assets/118679102/ee18bb6f-c8cb-41ba-8cca-2f33465214bc)
+
 
 <br>
 <br>
