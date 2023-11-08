@@ -29,8 +29,10 @@ Plot the images using plt.imshow.
 
  
 ## Program:
-# Developed by: Amurtha vaahini.KN
-# Register number:212222240008
+```
+Developed by: Amurtha vaahini.KN
+Register number:212222240008
+```
 
 
 # Import the necessary packages:
@@ -46,7 +48,7 @@ import matplotlib.pyplot as plt
 ```
 image = np.zeros((100,500),dtype = 'uint8')
 font = cv2.FONT_HERSHEY_SIMPLEX
-cv2.putText(image,"Mohan Raj",(5,70),font,2,(255),5,cv2.LINE_AA)
+cv2.putText(image,"AMURTHA VAAHINI",(5,70),font,2,(255),5,cv2.LINE_AA)
 plt.imshow(image,cmap='gray')
 plt.title('Input Text'), plt.xticks([]), plt.yticks([])
 plt.show()
